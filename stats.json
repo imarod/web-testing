@@ -1,16 +1,16 @@
 {
-  "hash": "f936cef77e7927098dae",
+  "hash": "9a4a61ebf744ed7ea8d8",
   "version": "5.89.0",
-  "time": 18487,
-  "builtAt": 1737545222042,
+  "time": 16518,
+  "builtAt": 1737547386339,
   "publicPath": "auto",
   "outputPath": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist",
   "assetsByChunkName": {
     "app~d1658f4b": [
       "app~d1658f4b.bundle.js"
     ],
-    "app~5d3f7ed2": [
-      "app~5d3f7ed2.bundle.js"
+    "app~49ea73a0": [
+      "app~49ea73a0.bundle.js"
     ],
     "app~e4317507": [
       "app~e4317507.bundle.js"
@@ -23,14 +23,13 @@
     {
       "type": "asset",
       "name": "icons/icon-512x512.png",
-      "size": 253263,
-      "emitted": true,
+      "size": 282414,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/icons/icon-512x512.png",
-        "size": 253263
+        "sourceFilename": "src/public/icons/icon-512x512.png"
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -39,19 +38,18 @@
       "related": {},
       "chunks": [],
       "auxiliaryChunks": [],
-      "isOverSizeLimit": true
+      "isOverSizeLimit": false
     },
     {
       "type": "asset",
       "name": "favicon.png",
-      "size": 192543,
-      "emitted": true,
+      "size": 231553,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/favicon.png",
-        "size": 192543
+        "sourceFilename": "src/public/favicon.png"
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -65,14 +63,13 @@
     {
       "type": "asset",
       "name": "icons/icon-384x384.png",
-      "size": 149159,
-      "emitted": true,
+      "size": 176113,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/icons/icon-384x384.png",
-        "size": 149159
+        "sourceFilename": "src/public/icons/icon-384x384.png"
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -87,12 +84,11 @@
       "type": "asset",
       "name": "./workbox-94c66d79.js.map",
       "size": 144431,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
-        "minimized": true,
-        "size": 144431
+        "minimized": true
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -106,14 +102,13 @@
     {
       "type": "asset",
       "name": "icons/icon-192x192.png",
-      "size": 41398,
-      "emitted": true,
+      "size": 52214,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/icons/icon-192x192.png",
-        "size": 41398
+        "sourceFilename": "src/public/icons/icon-192x192.png"
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -128,17 +123,16 @@
       "type": "asset",
       "name": "app~ca0940c6.bundle.js",
       "size": 35008,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "javascriptModule": false,
         "minimized": true,
         "related": {
           "license": "app~ca0940c6.bundle.js.LICENSE.txt",
           "sourceMap": "app~ca0940c6.bundle.js.map"
-        },
-        "size": 35008
+        }
       },
       "chunkNames": [
         "app~ca0940c6"
@@ -152,12 +146,11 @@
           "type": "sourceMap",
           "name": "app~ca0940c6.bundle.js.map",
           "size": 47119,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "development": true,
-            "size": 47119
+            "development": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -176,12 +169,11 @@
           "type": "license",
           "name": "app~ca0940c6.bundle.js.LICENSE.txt",
           "size": 149,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "extractedComments": true,
-            "size": 149
+            "extractedComments": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -202,14 +194,13 @@
     {
       "type": "asset",
       "name": "icons/icon-152x152.png",
-      "size": 26933,
-      "emitted": true,
+      "size": 34102,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/icons/icon-152x152.png",
-        "size": 26933
+        "sourceFilename": "src/public/icons/icon-152x152.png"
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -222,41 +213,34 @@
     },
     {
       "type": "asset",
-      "name": "8e438958ab0a4ec5a228.jpg",
-      "size": 26088,
-      "emitted": true,
+      "name": "icons/icon-144x144.png",
+      "size": 31031,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
-        "sourceFilename": "dist/images/hero-image_4-large.jpg",
-        "immutable": true,
-        "contenthash": "8e438958ab0a4ec5a228",
-        "size": 26088
+        "copied": true,
+        "sourceFilename": "src/public/icons/icon-144x144.png"
       },
       "chunkNames": [],
       "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "app~5d3f7ed2"
-      ],
+      "auxiliaryChunkNames": [],
       "auxiliaryChunkIdHints": [],
       "related": {},
       "chunks": [],
-      "auxiliaryChunks": [
-        17
-      ],
+      "auxiliaryChunks": [],
       "isOverSizeLimit": false
     },
     {
       "type": "asset",
-      "name": "icons/icon-144x144.png",
-      "size": 24443,
-      "emitted": true,
+      "name": "icons/icon-128x128.png",
+      "size": 25079,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/icons/icon-144x144.png",
-        "size": 24443
+        "sourceFilename": "src/public/icons/icon-128x128.png"
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -270,17 +254,16 @@
     {
       "type": "asset",
       "name": "app~d1658f4b.bundle.js",
-      "size": 21754,
-      "emitted": true,
+      "size": 21461,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "javascriptModule": false,
         "minimized": true,
         "related": {
           "sourceMap": "app~d1658f4b.bundle.js.map"
-        },
-        "size": 21754
+        }
       },
       "chunkNames": [
         "app~d1658f4b"
@@ -293,13 +276,12 @@
         {
           "type": "sourceMap",
           "name": "app~d1658f4b.bundle.js.map",
-          "size": 35060,
-          "emitted": true,
+          "size": 33012,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "development": true,
-            "size": 35060
+            "development": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -323,22 +305,21 @@
     },
     {
       "type": "asset",
-      "name": "app~5d3f7ed2.bundle.js",
-      "size": 21410,
-      "emitted": true,
+      "name": "app~49ea73a0.bundle.js",
+      "size": 21273,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "app~5d3f7ed2.bundle.js.LICENSE.txt",
-          "sourceMap": "app~5d3f7ed2.bundle.js.map"
-        },
-        "size": 21410
+          "license": "app~49ea73a0.bundle.js.LICENSE.txt",
+          "sourceMap": "app~49ea73a0.bundle.js.map"
+        }
       },
       "chunkNames": [
-        "app~5d3f7ed2"
+        "app~49ea73a0"
       ],
       "chunkIdHints": [],
       "auxiliaryChunkNames": [],
@@ -347,38 +328,36 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "app~5d3f7ed2.bundle.js.map",
+          "name": "app~49ea73a0.bundle.js.map",
           "size": 25887,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "development": true,
-            "size": 25887
+            "development": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
           "auxiliaryChunkNames": [
-            "app~5d3f7ed2"
+            "app~49ea73a0"
           ],
           "auxiliaryChunkIdHints": [],
           "related": {},
           "chunks": [],
           "auxiliaryChunks": [
-            17
+            135
           ],
           "isOverSizeLimit": false
         },
         {
           "type": "license",
-          "name": "app~5d3f7ed2.bundle.js.LICENSE.txt",
+          "name": "app~49ea73a0.bundle.js.LICENSE.txt",
           "size": 149,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "extractedComments": true,
-            "size": 149
+            "extractedComments": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -391,29 +370,8 @@
         }
       ],
       "chunks": [
-        17
+        135
       ],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "icons/icon-128x128.png",
-      "size": 19777,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "copied": true,
-        "sourceFilename": "src/public/icons/icon-128x128.png",
-        "size": 19777
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": {},
-      "chunks": [],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
     },
@@ -421,17 +379,16 @@
       "type": "asset",
       "name": "app~e4317507.bundle.js",
       "size": 17760,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "javascriptModule": false,
         "minimized": true,
         "related": {
           "license": "app~e4317507.bundle.js.LICENSE.txt",
           "sourceMap": "app~e4317507.bundle.js.map"
-        },
-        "size": 17760
+        }
       },
       "chunkNames": [
         "app~e4317507"
@@ -445,12 +402,11 @@
           "type": "sourceMap",
           "name": "app~e4317507.bundle.js.map",
           "size": 25795,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "development": true,
-            "size": 25795
+            "development": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -469,12 +425,11 @@
           "type": "license",
           "name": "app~e4317507.bundle.js.LICENSE.txt",
           "size": 149,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "extractedComments": true,
-            "size": 149
+            "extractedComments": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -494,14 +449,33 @@
     },
     {
       "type": "asset",
+      "name": "icons/icon-96x96.png",
+      "size": 15028,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "copied": true,
+        "sourceFilename": "src/public/icons/icon-96x96.png"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
       "name": "./workbox-94c66d79.js",
       "size": 14782,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
-        "minimized": true,
-        "size": 14782
+        "minimized": true
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -516,16 +490,15 @@
       "type": "asset",
       "name": "2.bundle.js",
       "size": 14645,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "javascriptModule": false,
         "minimized": true,
         "related": {
           "sourceMap": "2.bundle.js.map"
-        },
-        "size": 14645
+        }
       },
       "chunkNames": [],
       "chunkIdHints": [
@@ -539,12 +512,11 @@
           "type": "sourceMap",
           "name": "2.bundle.js.map",
           "size": 61157,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "development": true,
-            "size": 61157
+            "development": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -570,16 +542,15 @@
       "type": "asset",
       "name": "192.bundle.js",
       "size": 14005,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "javascriptModule": false,
         "minimized": true,
         "related": {
           "sourceMap": "192.bundle.js.map"
-        },
-        "size": 14005
+        }
       },
       "chunkNames": [],
       "chunkIdHints": [
@@ -593,12 +564,11 @@
           "type": "sourceMap",
           "name": "192.bundle.js.map",
           "size": 66794,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": false,
-          "cached": false,
+          "cached": true,
           "info": {
-            "development": true,
-            "size": 66794
+            "development": true
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -622,62 +592,14 @@
     },
     {
       "type": "asset",
-      "name": "aa6581159e60eae64e59.jpg",
-      "size": 12458,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "sourceFilename": "dist/images/hero-image_4-small.jpg",
-        "immutable": true,
-        "contenthash": "aa6581159e60eae64e59",
-        "size": 12458
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "app~5d3f7ed2"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "related": {},
-      "chunks": [],
-      "auxiliaryChunks": [
-        17
-      ],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "icons/icon-96x96.png",
-      "size": 11966,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "copied": true,
-        "sourceFilename": "src/public/icons/icon-96x96.png",
-        "size": 11966
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": {},
-      "chunks": [],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
       "name": "icons/icon-72x72.png",
-      "size": 7394,
-      "emitted": true,
+      "size": 9069,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/icons/icon-72x72.png",
-        "size": 7394
+        "sourceFilename": "src/public/icons/icon-72x72.png"
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -691,13 +613,12 @@
     {
       "type": "asset",
       "name": "./sw.bundle.js.map",
-      "size": 5362,
-      "emitted": true,
+      "size": 5148,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
-        "minimized": true,
-        "size": 5362
+        "minimized": true
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -711,13 +632,12 @@
     {
       "type": "asset",
       "name": "./sw.bundle.js",
-      "size": 2721,
-      "emitted": true,
+      "size": 2627,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
-        "minimized": true,
-        "size": 2721
+        "minimized": true
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -732,12 +652,10 @@
       "type": "asset",
       "name": "index.html",
       "size": 1698,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "size": 1698
-      },
+      "cached": true,
+      "info": {},
       "chunkNames": [],
       "chunkIdHints": [],
       "auxiliaryChunkNames": [],
@@ -751,13 +669,12 @@
       "type": "asset",
       "name": "app.webmanifest",
       "size": 1499,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": false,
-      "cached": false,
+      "cached": true,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/app.webmanifest",
-        "size": 1499
+        "sourceFilename": "src/public/app.webmanifest"
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -797,7 +714,7 @@
       "childrenByOrder": {},
       "id": 2,
       "siblings": [
-        17,
+        135,
         192,
         268,
         337,
@@ -1663,10 +1580,10 @@
           "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\workbox-window\\build\\workbox-window.prod.es5.mjs",
           "name": "./node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\workbox-window\\build\\workbox-window.prod.es5.mjs",
-          "index": 34,
-          "preOrderIndex": 34,
-          "index2": 32,
-          "postOrderIndex": 32,
+          "index": 32,
+          "preOrderIndex": 32,
+          "index2": 30,
+          "postOrderIndex": 30,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -1753,29 +1670,26 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 115793,
+      "size": 33926,
       "sizes": {
-        "javascript": 34010,
-        "asset": 81783
+        "javascript": 33926
       },
       "names": [
-        "app~5d3f7ed2"
+        "app~49ea73a0"
       ],
       "idHints": [],
       "runtime": [
         "app"
       ],
       "files": [
-        "app~5d3f7ed2.bundle.js"
+        "app~49ea73a0.bundle.js"
       ],
       "auxiliaryFiles": [
-        "8e438958ab0a4ec5a228.jpg",
-        "aa6581159e60eae64e59.jpg",
-        "app~5d3f7ed2.bundle.js.map"
+        "app~49ea73a0.bundle.js.map"
       ],
-      "hash": "2702ec504ebdc3c0479c",
+      "hash": "4d0fdcba151b7215254c",
       "childrenByOrder": {},
-      "id": 17,
+      "id": 135,
       "siblings": [
         2,
         192,
@@ -1786,152 +1700,6 @@
       "parents": [],
       "children": [],
       "modules": [
-        {
-          "type": "module",
-          "moduleType": "asset/resource",
-          "layer": null,
-          "size": 42,
-          "sizes": {
-            "javascript": 42,
-            "asset": 55778
-          },
-          "built": true,
-          "codeGenerated": true,
-          "buildTimeExecuted": false,
-          "cached": false,
-          "identifier": "asset/resource|D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-large.jpg",
-          "name": "./dist/images/hero-image_4-large.jpg",
-          "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-large.jpg",
-          "index": 16,
-          "preOrderIndex": 16,
-          "index2": 13,
-          "postOrderIndex": 13,
-          "cacheable": true,
-          "optional": false,
-          "orphan": false,
-          "dependent": false,
-          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "issuerPath": [
-            {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
-              "name": "./src/scripts/index.js",
-              "id": 253
-            },
-            {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "name": "./src/styles/responsive.css",
-              "id": 362
-            },
-            {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "id": 948
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "id": 308,
-          "issuerId": 948,
-          "chunks": [
-            17
-          ],
-          "assets": [],
-          "reasons": [
-            {
-              "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "resolvedModuleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "type": "new URL()",
-              "active": true,
-              "explanation": "",
-              "userRequest": "/dist/images/hero-image_4-large.jpg",
-              "loc": "5:36-99",
-              "moduleId": 948,
-              "resolvedModuleId": 948
-            }
-          ],
-          "usedExports": true,
-          "providedExports": [],
-          "optimizationBailout": [],
-          "depth": 3
-        },
-        {
-          "type": "module",
-          "moduleType": "asset/resource",
-          "layer": null,
-          "size": 42,
-          "sizes": {
-            "javascript": 42,
-            "asset": 26005
-          },
-          "built": true,
-          "codeGenerated": true,
-          "buildTimeExecuted": false,
-          "cached": false,
-          "identifier": "asset/resource|D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-small.jpg",
-          "name": "./dist/images/hero-image_4-small.jpg",
-          "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-small.jpg",
-          "index": 13,
-          "preOrderIndex": 13,
-          "index2": 10,
-          "postOrderIndex": 10,
-          "cacheable": true,
-          "optional": false,
-          "orphan": false,
-          "dependent": false,
-          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-          "issuerPath": [
-            {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
-              "name": "./src/scripts/index.js",
-              "id": 253
-            },
-            {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-              "name": "./src/styles/main.css",
-              "id": 46
-            },
-            {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-              "id": 756
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "id": 594,
-          "issuerId": 756,
-          "chunks": [
-            17
-          ],
-          "assets": [],
-          "reasons": [
-            {
-              "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-              "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-              "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-              "resolvedModuleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-              "type": "new URL()",
-              "active": true,
-              "explanation": "",
-              "userRequest": "/dist/images/hero-image_4-small.jpg",
-              "loc": "5:36-99",
-              "moduleId": 756,
-              "resolvedModuleId": 756
-            }
-          ],
-          "usedExports": true,
-          "providedExports": [],
-          "optimizationBailout": [],
-          "depth": 3
-        },
         {
           "type": "module",
           "moduleType": "javascript/auto",
@@ -1947,10 +1715,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\component\\reviews-page.js",
           "name": "./src/scripts/component/reviews-page.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\component\\reviews-page.js",
-          "index": 27,
-          "preOrderIndex": 27,
-          "index2": 23,
-          "postOrderIndex": 23,
+          "index": 25,
+          "preOrderIndex": 25,
+          "index2": 21,
+          "postOrderIndex": 21,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -1985,7 +1753,7 @@
           "id": 803,
           "issuerId": 178,
           "chunks": [
-            17
+            135
           ],
           "assets": [],
           "reasons": [
@@ -2027,10 +1795,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\favorite-restaurant-idb.js",
           "name": "./src/scripts/data/favorite-restaurant-idb.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\favorite-restaurant-idb.js",
-          "index": 29,
-          "preOrderIndex": 29,
-          "index2": 27,
-          "postOrderIndex": 27,
+          "index": 27,
+          "preOrderIndex": 27,
+          "index2": 25,
+          "postOrderIndex": 25,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -2065,7 +1833,7 @@
           "id": 997,
           "issuerId": 178,
           "chunks": [
-            17
+            135
           ],
           "assets": [],
           "reasons": [
@@ -2135,7 +1903,7 @@
           "optimizationBailout": [
             "Statement (VariableDeclaration) with side effects in source code at 9:0-11:47",
             "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js: Module ./src/scripts/globals/config.js is referenced from different chunks by these modules: ./src/scripts/views/templates/template-creator.js",
-            "ModuleConcatenation bailout: Cannot concat with ./node_modules/idb/build/index.js: Module ./node_modules/idb/build/index.js is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) )"
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/idb/build/index.js: Module ./node_modules/idb/build/index.js is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) )"
           ],
           "depth": 4
         },
@@ -2154,10 +1922,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js|2b793fe2f6a47573df2a0bea71413338",
           "name": "./src/scripts/data/therestodb-source.js + 1 modules",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
-          "index": 22,
-          "preOrderIndex": 22,
-          "index2": 20,
-          "postOrderIndex": 20,
+          "index": 20,
+          "preOrderIndex": 20,
+          "index2": 18,
+          "postOrderIndex": 18,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -2167,7 +1935,7 @@
           "warnings": 0,
           "id": 212,
           "chunks": [
-            17
+            135
           ],
           "assets": [],
           "reasons": [
@@ -2254,16 +2022,16 @@
               "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
               "name": "./src/scripts/data/therestodb-source.js",
               "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
-              "index": 22,
-              "preOrderIndex": 22,
-              "index2": 20,
-              "postOrderIndex": 20,
+              "index": 20,
+              "preOrderIndex": 20,
+              "index2": 18,
+              "postOrderIndex": 18,
               "cacheable": true,
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-              "issuerName": "./src/scripts/views/pages/detail.js",
+              "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+              "issuerName": "./src/scripts/views/pages/home.js",
               "issuerPath": [
                 {
                   "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -2281,16 +2049,16 @@
                   "id": 705
                 },
                 {
-                  "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js",
-                  "id": 178
+                  "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+                  "name": "./src/scripts/views/pages/home.js",
+                  "id": 750
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": null,
-              "issuerId": 178,
+              "issuerId": 750,
               "chunks": [],
               "assets": [],
               "reasons": [],
@@ -2320,10 +2088,10 @@
               "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\api-endpoint.js",
               "name": "./src/scripts/globals/api-endpoint.js",
               "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\api-endpoint.js",
-              "index": 23,
-              "preOrderIndex": 23,
-              "index2": 19,
-              "postOrderIndex": 19,
+              "index": 21,
+              "preOrderIndex": 21,
+              "index2": 17,
+              "postOrderIndex": 17,
               "cacheable": true,
               "optional": false,
               "orphan": false,
@@ -2347,9 +2115,9 @@
                   "id": 705
                 },
                 {
-                  "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js",
-                  "id": 178
+                  "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+                  "name": "./src/scripts/views/pages/home.js",
+                  "id": 750
                 },
                 {
                   "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
@@ -2436,10 +2204,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\config.js",
           "name": "./src/scripts/globals/config.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\config.js",
-          "index": 24,
-          "preOrderIndex": 24,
-          "index2": 18,
-          "postOrderIndex": 18,
+          "index": 22,
+          "preOrderIndex": 22,
+          "index2": 16,
+          "postOrderIndex": 16,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -2479,7 +2247,7 @@
           "id": 961,
           "issuerId": 997,
           "chunks": [
-            17
+            135
           ],
           "assets": [],
           "reasons": [
@@ -2694,8 +2462,8 @@
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
           "index": 0,
           "preOrderIndex": 0,
-          "index2": 36,
-          "postOrderIndex": 36,
+          "index2": 34,
+          "postOrderIndex": 34,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -2709,7 +2477,7 @@
           "id": 253,
           "issuerId": null,
           "chunks": [
-            17
+            135
           ],
           "assets": [],
           "reasons": [
@@ -2732,13 +2500,13 @@
           "providedExports": [],
           "optimizationBailout": [
             "Statement (VariableDeclaration) with side effects in source code at 8:0-12:3",
-            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/utils/sw-register.js: Module ./src/scripts/utils/sw-register.js is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) app~e4317507)",
-            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/views/app.js: Module ./src/scripts/views/app.js is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) app~ca0940c6)",
+            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/utils/sw-register.js: Module ./src/scripts/utils/sw-register.js is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) app~e4317507)",
+            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/views/app.js: Module ./src/scripts/views/app.js is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) app~ca0940c6)",
             "ModuleConcatenation bailout: Cannot concat with ./node_modules/lazysizes/lazysizes.js: Module is not an ECMAScript module",
             "ModuleConcatenation bailout: Cannot concat with ./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js: Module is not an ECMAScript module",
             "ModuleConcatenation bailout: Cannot concat with ./node_modules/regenerator-runtime/runtime.js: Module is not an ECMAScript module",
-            "ModuleConcatenation bailout: Cannot concat with ./src/styles/main.css: Module ./src/styles/main.css is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) app~d1658f4b)",
-            "ModuleConcatenation bailout: Cannot concat with ./src/styles/responsive.css: Module ./src/styles/responsive.css is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) app~d1658f4b)"
+            "ModuleConcatenation bailout: Cannot concat with ./src/styles/main.css: Module ./src/styles/main.css is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) app~d1658f4b)",
+            "ModuleConcatenation bailout: Cannot concat with ./src/styles/responsive.css: Module ./src/styles/responsive.css is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) app~d1658f4b)"
           ],
           "depth": 0
         }
@@ -2781,7 +2549,7 @@
       "id": 192,
       "siblings": [
         2,
-        17,
+        135,
         268,
         337,
         954
@@ -2812,8 +2580,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
           "issuerPath": [
             {
               "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -2821,21 +2589,21 @@
               "id": 253
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "name": "./src/styles/responsive.css",
-              "id": 362
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+              "name": "./src/styles/main.css",
+              "id": 46
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "id": 948
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+              "id": 756
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 645,
-          "issuerId": 948,
+          "issuerId": 756,
           "chunks": [
             192
           ],
@@ -2944,8 +2712,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
           "issuerPath": [
             {
               "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -2953,21 +2721,21 @@
               "id": 253
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "name": "./src/styles/responsive.css",
-              "id": 362
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+              "name": "./src/styles/main.css",
+              "id": 46
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "id": 948
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+              "id": 756
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 667,
-          "issuerId": 948,
+          "issuerId": 756,
           "chunks": [
             192
           ],
@@ -3076,8 +2844,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
           "issuerPath": [
             {
               "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -3085,21 +2853,21 @@
               "id": 253
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "name": "./src/styles/responsive.css",
-              "id": 362
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+              "name": "./src/styles/main.css",
+              "id": 46
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "id": 948
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+              "id": 756
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 537,
-          "issuerId": 948,
+          "issuerId": 756,
           "chunks": [
             192
           ],
@@ -3200,10 +2968,10 @@
           "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\index.js|31edc6aea807368289b03faa3d019b95",
           "name": "./node_modules/idb/build/index.js + 1 modules",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\index.js",
-          "index": 30,
-          "preOrderIndex": 30,
-          "index2": 26,
-          "postOrderIndex": 26,
+          "index": 28,
+          "preOrderIndex": 28,
+          "index2": 24,
+          "postOrderIndex": 24,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3273,10 +3041,10 @@
               "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\index.js",
               "name": "./node_modules/idb/build/index.js",
               "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\index.js",
-              "index": 30,
-              "preOrderIndex": 30,
-              "index2": 26,
-              "postOrderIndex": 26,
+              "index": 28,
+              "preOrderIndex": 28,
+              "index2": 24,
+              "postOrderIndex": 24,
               "cacheable": true,
               "optional": false,
               "orphan": false,
@@ -3347,10 +3115,10 @@
               "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\wrap-idb-value.js",
               "name": "./node_modules/idb/build/wrap-idb-value.js",
               "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\wrap-idb-value.js",
-              "index": 31,
-              "preOrderIndex": 31,
-              "index2": 25,
-              "postOrderIndex": 25,
+              "index": 29,
+              "preOrderIndex": 29,
+              "index2": 23,
+              "postOrderIndex": 23,
               "cacheable": true,
               "optional": false,
               "orphan": false,
@@ -3557,10 +3325,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\lazysizes\\lazysizes.js",
           "name": "./node_modules/lazysizes/lazysizes.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\lazysizes\\lazysizes.js",
-          "index": 35,
-          "preOrderIndex": 35,
-          "index2": 34,
-          "postOrderIndex": 34,
+          "index": 33,
+          "preOrderIndex": 33,
+          "index2": 32,
+          "postOrderIndex": 32,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3679,10 +3447,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
           "name": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
-          "index": 36,
-          "preOrderIndex": 36,
-          "index2": 35,
-          "postOrderIndex": 35,
+          "index": 34,
+          "preOrderIndex": 34,
+          "index2": 33,
+          "postOrderIndex": 33,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3782,7 +3550,7 @@
       "id": 268,
       "siblings": [
         2,
-        17,
+        135,
         192,
         337,
         954
@@ -3805,10 +3573,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\app.js",
           "name": "./src/scripts/views/app.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\app.js",
-          "index": 17,
-          "preOrderIndex": 17,
-          "index2": 31,
-          "postOrderIndex": 31,
+          "index": 15,
+          "preOrderIndex": 15,
+          "index2": 29,
+          "postOrderIndex": 29,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3890,10 +3658,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
           "name": "./src/scripts/views/pages/detail.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-          "index": 26,
-          "preOrderIndex": 26,
-          "index2": 28,
-          "postOrderIndex": 28,
+          "index": 24,
+          "preOrderIndex": 24,
+          "index2": 26,
+          "postOrderIndex": 26,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -3965,7 +3733,7 @@
           "optimizationBailout": [
             "Statement (VariableDeclaration) with side effects in source code at 11:0-62:2",
             "ModuleConcatenation bailout: Cannot concat with ./src/scripts/component/reviews-page.js: Module is not an ECMAScript module",
-            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/favorite-restaurant-idb.js: Module ./src/scripts/data/favorite-restaurant-idb.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~5d3f7ed2)",
+            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/favorite-restaurant-idb.js: Module ./src/scripts/data/favorite-restaurant-idb.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~49ea73a0)",
             "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/therestodb-source.js: Module ./src/scripts/data/therestodb-source.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) )",
             "ModuleConcatenation bailout: Cannot concat with ./src/scripts/routes/url-parser.js: Module ./src/scripts/routes/url-parser.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~e4317507)",
             "ModuleConcatenation bailout: Cannot concat with ./src/scripts/utils/like-button-presenter.js: Module ./src/scripts/utils/like-button-presenter.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~e4317507)",
@@ -3988,10 +3756,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
           "name": "./src/scripts/views/pages/home.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
-          "index": 21,
-          "preOrderIndex": 21,
-          "index2": 22,
-          "postOrderIndex": 22,
+          "index": 19,
+          "preOrderIndex": 19,
+          "index2": 20,
+          "postOrderIndex": 20,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4096,10 +3864,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\like.js",
           "name": "./src/scripts/views/pages/like.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\like.js",
-          "index": 32,
-          "preOrderIndex": 32,
-          "index2": 29,
-          "postOrderIndex": 29,
+          "index": 30,
+          "preOrderIndex": 30,
+          "index2": 27,
+          "postOrderIndex": 27,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4170,7 +3938,7 @@
           ],
           "optimizationBailout": [
             "Statement (VariableDeclaration) with side effects in source code at 7:0-46:2",
-            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/favorite-restaurant-idb.js: Module ./src/scripts/data/favorite-restaurant-idb.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~5d3f7ed2)",
+            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/favorite-restaurant-idb.js: Module ./src/scripts/data/favorite-restaurant-idb.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~49ea73a0)",
             "ModuleConcatenation bailout: Cannot concat with ./src/scripts/views/templates/template-creator.js: Module ./src/scripts/views/templates/template-creator.js is referenced from different chunks by these modules: ./src/scripts/utils/like-button-presenter.js"
           ],
           "depth": 3
@@ -4190,16 +3958,16 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\templates\\template-creator.js",
           "name": "./src/scripts/views/templates/template-creator.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\templates\\template-creator.js",
-          "index": 25,
-          "preOrderIndex": 25,
-          "index2": 21,
-          "postOrderIndex": 21,
+          "index": 23,
+          "preOrderIndex": 23,
+          "index2": 19,
+          "postOrderIndex": 19,
           "cacheable": true,
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-          "issuerName": "./src/scripts/views/pages/detail.js",
+          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+          "issuerName": "./src/scripts/views/pages/home.js",
           "issuerPath": [
             {
               "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -4217,16 +3985,16 @@
               "id": 705
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js",
-              "id": 178
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js",
+              "id": 750
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 510,
-          "issuerId": 178,
+          "issuerId": 750,
           "chunks": [
             268
           ],
@@ -4389,7 +4157,7 @@
           ],
           "optimizationBailout": [
             "Dependency (harmony side effect evaluation) with side effects at 1:0-42",
-            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js: Module ./src/scripts/globals/config.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~5d3f7ed2)"
+            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js: Module ./src/scripts/globals/config.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~49ea73a0)"
           ],
           "depth": 4
         }
@@ -4431,7 +4199,7 @@
       "id": 337,
       "siblings": [
         2,
-        17,
+        135,
         192,
         268,
         954
@@ -4454,10 +4222,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\routes\\routes.js",
           "name": "./src/scripts/routes/routes.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\routes\\routes.js",
-          "index": 20,
-          "preOrderIndex": 20,
-          "index2": 30,
-          "postOrderIndex": 30,
+          "index": 18,
+          "preOrderIndex": 18,
+          "index2": 28,
+          "postOrderIndex": 28,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4544,10 +4312,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\routes\\url-parser.js",
           "name": "./src/scripts/routes/url-parser.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\routes\\url-parser.js",
-          "index": 19,
-          "preOrderIndex": 19,
-          "index2": 17,
-          "postOrderIndex": 17,
+          "index": 17,
+          "preOrderIndex": 17,
+          "index2": 15,
+          "postOrderIndex": 15,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4659,10 +4427,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\drawer-initiator.js",
           "name": "./src/scripts/utils/drawer-initiator.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\drawer-initiator.js",
-          "index": 18,
-          "preOrderIndex": 18,
-          "index2": 16,
-          "postOrderIndex": 16,
+          "index": 16,
+          "preOrderIndex": 16,
+          "index2": 14,
+          "postOrderIndex": 14,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4746,10 +4514,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\like-button-presenter.js",
           "name": "./src/scripts/utils/like-button-presenter.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\like-button-presenter.js",
-          "index": 28,
-          "preOrderIndex": 28,
-          "index2": 24,
-          "postOrderIndex": 24,
+          "index": 26,
+          "preOrderIndex": 26,
+          "index2": 22,
+          "postOrderIndex": 22,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4844,10 +4612,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\sw-register.js",
           "name": "./src/scripts/utils/sw-register.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\sw-register.js",
-          "index": 33,
-          "preOrderIndex": 33,
-          "index2": 33,
-          "postOrderIndex": 33,
+          "index": 31,
+          "preOrderIndex": 31,
+          "index2": 31,
+          "postOrderIndex": 31,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -4928,10 +4696,10 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 26930,
+      "size": 25786,
       "sizes": {
         "javascript": 22584,
-        "runtime": 4346
+        "runtime": 3202
       },
       "names": [
         "app~d1658f4b"
@@ -4946,12 +4714,12 @@
       "auxiliaryFiles": [
         "app~d1658f4b.bundle.js.map"
       ],
-      "hash": "7446582495822484ddc8",
+      "hash": "e29750f5187d5db56a46",
       "childrenByOrder": {},
       "id": 954,
       "siblings": [
         2,
-        17,
+        135,
         192,
         268,
         337
@@ -4976,8 +4744,8 @@
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
           "index": 9,
           "preOrderIndex": 9,
-          "index2": 11,
-          "postOrderIndex": 11,
+          "index2": 10,
+          "postOrderIndex": 10,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -5132,10 +4900,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
           "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "index": 15,
-          "preOrderIndex": 15,
-          "index2": 14,
-          "postOrderIndex": 14,
+          "index": 14,
+          "preOrderIndex": 14,
+          "index2": 12,
+          "postOrderIndex": 12,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -5292,8 +5060,8 @@
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
           "index": 2,
           "preOrderIndex": 2,
-          "index2": 12,
-          "postOrderIndex": 12,
+          "index2": 11,
+          "postOrderIndex": 11,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -5363,10 +5131,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
           "name": "./src/styles/responsive.css",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "index": 14,
-          "preOrderIndex": 14,
-          "index2": 15,
-          "postOrderIndex": 15,
+          "index": 13,
+          "preOrderIndex": 13,
+          "index2": 13,
+          "postOrderIndex": 13,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -5533,42 +5301,6 @@
           "type": "module",
           "moduleType": "runtime",
           "layer": null,
-          "size": 221,
-          "sizes": {
-            "runtime": 221
-          },
-          "built": false,
-          "codeGenerated": true,
-          "buildTimeExecuted": false,
-          "cached": false,
-          "identifier": "webpack/runtime/global",
-          "name": "webpack/runtime/global",
-          "nameForCondition": null,
-          "index": null,
-          "preOrderIndex": null,
-          "index2": null,
-          "postOrderIndex": null,
-          "optional": false,
-          "orphan": false,
-          "dependent": false,
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "id": "",
-          "chunks": [
-            954
-          ],
-          "assets": [],
-          "reasons": [],
-          "usedExports": null,
-          "providedExports": [],
-          "optimizationBailout": [],
-          "depth": null
-        },
-        {
-          "type": "module",
-          "moduleType": "runtime",
-          "layer": null,
           "size": 88,
           "sizes": {
             "runtime": 88
@@ -5672,42 +5404,6 @@
           "providedExports": [],
           "optimizationBailout": [],
           "depth": null
-        },
-        {
-          "type": "module",
-          "moduleType": "runtime",
-          "layer": null,
-          "size": 923,
-          "sizes": {
-            "runtime": 923
-          },
-          "built": false,
-          "codeGenerated": true,
-          "buildTimeExecuted": false,
-          "cached": false,
-          "identifier": "webpack/runtime/publicPath",
-          "name": "webpack/runtime/publicPath",
-          "nameForCondition": null,
-          "index": null,
-          "preOrderIndex": null,
-          "index2": null,
-          "postOrderIndex": null,
-          "optional": false,
-          "orphan": false,
-          "dependent": false,
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "id": "",
-          "chunks": [
-            954
-          ],
-          "assets": [],
-          "reasons": [],
-          "usedExports": null,
-          "providedExports": [],
-          "optimizationBailout": [],
-          "depth": null
         }
       ],
       "origins": [
@@ -5739,8 +5435,8 @@
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
       "index": 0,
       "preOrderIndex": 0,
-      "index2": 36,
-      "postOrderIndex": 36,
+      "index2": 34,
+      "postOrderIndex": 34,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -5753,7 +5449,7 @@
       "id": 253,
       "issuerId": null,
       "chunks": [
-        17
+        135
       ],
       "assets": [],
       "reasons": [
@@ -5776,13 +5472,13 @@
       "providedExports": [],
       "optimizationBailout": [
         "Statement (VariableDeclaration) with side effects in source code at 8:0-12:3",
-        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/utils/sw-register.js: Module ./src/scripts/utils/sw-register.js is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) app~e4317507)",
-        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/views/app.js: Module ./src/scripts/views/app.js is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) app~ca0940c6)",
+        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/utils/sw-register.js: Module ./src/scripts/utils/sw-register.js is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) app~e4317507)",
+        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/views/app.js: Module ./src/scripts/views/app.js is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) app~ca0940c6)",
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/lazysizes/lazysizes.js: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/regenerator-runtime/runtime.js: Module is not an ECMAScript module",
-        "ModuleConcatenation bailout: Cannot concat with ./src/styles/main.css: Module ./src/styles/main.css is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) app~d1658f4b)",
-        "ModuleConcatenation bailout: Cannot concat with ./src/styles/responsive.css: Module ./src/styles/responsive.css is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) app~d1658f4b)"
+        "ModuleConcatenation bailout: Cannot concat with ./src/styles/main.css: Module ./src/styles/main.css is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) app~d1658f4b)",
+        "ModuleConcatenation bailout: Cannot concat with ./src/styles/responsive.css: Module ./src/styles/responsive.css is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) app~d1658f4b)"
       ],
       "depth": 0
     },
@@ -5882,8 +5578,8 @@
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
       "index": 2,
       "preOrderIndex": 2,
-      "index2": 12,
-      "postOrderIndex": 12,
+      "index2": 11,
+      "postOrderIndex": 11,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -5952,10 +5648,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
       "name": "./src/styles/responsive.css",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-      "index": 14,
-      "preOrderIndex": 14,
-      "index2": 15,
-      "postOrderIndex": 15,
+      "index": 13,
+      "preOrderIndex": 13,
+      "index2": 13,
+      "postOrderIndex": 13,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -6024,10 +5720,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\app.js",
       "name": "./src/scripts/views/app.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\app.js",
-      "index": 17,
-      "preOrderIndex": 17,
-      "index2": 31,
-      "postOrderIndex": 31,
+      "index": 15,
+      "preOrderIndex": 15,
+      "index2": 29,
+      "postOrderIndex": 29,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -6108,10 +5804,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\sw-register.js",
       "name": "./src/scripts/utils/sw-register.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\sw-register.js",
-      "index": 33,
-      "preOrderIndex": 33,
-      "index2": 33,
-      "postOrderIndex": 33,
+      "index": 31,
+      "preOrderIndex": 31,
+      "index2": 31,
+      "postOrderIndex": 31,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -6190,10 +5886,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\lazysizes\\lazysizes.js",
       "name": "./node_modules/lazysizes/lazysizes.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\lazysizes\\lazysizes.js",
-      "index": 35,
-      "preOrderIndex": 35,
-      "index2": 34,
-      "postOrderIndex": 34,
+      "index": 33,
+      "preOrderIndex": 33,
+      "index2": 32,
+      "postOrderIndex": 32,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -6311,10 +6007,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
       "name": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
-      "index": 36,
-      "preOrderIndex": 36,
-      "index2": 35,
-      "postOrderIndex": 35,
+      "index": 34,
+      "preOrderIndex": 34,
+      "index2": 33,
+      "postOrderIndex": 33,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7148,8 +6844,8 @@
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
       "index": 9,
       "preOrderIndex": 9,
-      "index2": 11,
-      "postOrderIndex": 11,
+      "index2": 10,
+      "postOrderIndex": 10,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7303,10 +6999,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
       "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-      "index": 15,
-      "preOrderIndex": 15,
-      "index2": 14,
-      "postOrderIndex": 14,
+      "index": 14,
+      "preOrderIndex": 14,
+      "index2": 12,
+      "postOrderIndex": 12,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7460,10 +7156,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\drawer-initiator.js",
       "name": "./src/scripts/utils/drawer-initiator.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\drawer-initiator.js",
-      "index": 18,
-      "preOrderIndex": 18,
-      "index2": 16,
-      "postOrderIndex": 16,
+      "index": 16,
+      "preOrderIndex": 16,
+      "index2": 14,
+      "postOrderIndex": 14,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7546,10 +7242,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\routes\\url-parser.js",
       "name": "./src/scripts/routes/url-parser.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\routes\\url-parser.js",
-      "index": 19,
-      "preOrderIndex": 19,
-      "index2": 17,
-      "postOrderIndex": 17,
+      "index": 17,
+      "preOrderIndex": 17,
+      "index2": 15,
+      "postOrderIndex": 15,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7660,10 +7356,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\routes\\routes.js",
       "name": "./src/scripts/routes/routes.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\routes\\routes.js",
-      "index": 20,
-      "preOrderIndex": 20,
-      "index2": 30,
-      "postOrderIndex": 30,
+      "index": 18,
+      "preOrderIndex": 18,
+      "index2": 28,
+      "postOrderIndex": 28,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7749,10 +7445,10 @@
       "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\workbox-window\\build\\workbox-window.prod.es5.mjs",
       "name": "./node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\workbox-window\\build\\workbox-window.prod.es5.mjs",
-      "index": 34,
-      "preOrderIndex": 34,
-      "index2": 32,
-      "postOrderIndex": 32,
+      "index": 32,
+      "preOrderIndex": 32,
+      "index2": 30,
+      "postOrderIndex": 30,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -7844,8 +7540,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
       "issuerPath": [
         {
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -7853,21 +7549,21 @@
           "id": 253
         },
         {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "name": "./src/styles/responsive.css",
-          "id": 362
+          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "name": "./src/styles/main.css",
+          "id": 46
         },
         {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "id": 948
+          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+          "id": 756
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 537,
-      "issuerId": 948,
+      "issuerId": 756,
       "chunks": [
         192
       ],
@@ -7975,8 +7671,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
       "issuerPath": [
         {
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -7984,21 +7680,21 @@
           "id": 253
         },
         {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "name": "./src/styles/responsive.css",
-          "id": 362
+          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "name": "./src/styles/main.css",
+          "id": 46
         },
         {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "id": 948
+          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+          "id": 756
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 645,
-      "issuerId": 948,
+      "issuerId": 756,
       "chunks": [
         192
       ],
@@ -8106,8 +7802,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
       "issuerPath": [
         {
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -8115,21 +7811,21 @@
           "id": 253
         },
         {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "name": "./src/styles/responsive.css",
-          "id": 362
+          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "name": "./src/styles/main.css",
+          "id": 46
         },
         {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "id": 948
+          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+          "id": 756
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 667,
-      "issuerId": 948,
+      "issuerId": 756,
       "chunks": [
         192
       ],
@@ -8217,150 +7913,6 @@
     },
     {
       "type": "module",
-      "moduleType": "asset/resource",
-      "layer": null,
-      "size": 42,
-      "sizes": {
-        "javascript": 42,
-        "asset": 26005
-      },
-      "built": true,
-      "codeGenerated": true,
-      "buildTimeExecuted": false,
-      "cached": false,
-      "identifier": "asset/resource|D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-small.jpg",
-      "name": "./dist/images/hero-image_4-small.jpg",
-      "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-small.jpg",
-      "index": 13,
-      "preOrderIndex": 13,
-      "index2": 10,
-      "postOrderIndex": 10,
-      "cacheable": true,
-      "optional": false,
-      "orphan": false,
-      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-      "issuerPath": [
-        {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
-          "name": "./src/scripts/index.js",
-          "id": 253
-        },
-        {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-          "name": "./src/styles/main.css",
-          "id": 46
-        },
-        {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-          "id": 756
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "id": 594,
-      "issuerId": 756,
-      "chunks": [
-        17
-      ],
-      "assets": [],
-      "reasons": [
-        {
-          "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-          "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-          "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-          "resolvedModuleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
-          "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-          "type": "new URL()",
-          "active": true,
-          "explanation": "",
-          "userRequest": "/dist/images/hero-image_4-small.jpg",
-          "loc": "5:36-99",
-          "moduleId": 756,
-          "resolvedModuleId": 756
-        }
-      ],
-      "usedExports": true,
-      "providedExports": [],
-      "optimizationBailout": [],
-      "depth": 3
-    },
-    {
-      "type": "module",
-      "moduleType": "asset/resource",
-      "layer": null,
-      "size": 42,
-      "sizes": {
-        "javascript": 42,
-        "asset": 55778
-      },
-      "built": true,
-      "codeGenerated": true,
-      "buildTimeExecuted": false,
-      "cached": false,
-      "identifier": "asset/resource|D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-large.jpg",
-      "name": "./dist/images/hero-image_4-large.jpg",
-      "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-large.jpg",
-      "index": 16,
-      "preOrderIndex": 16,
-      "index2": 13,
-      "postOrderIndex": 13,
-      "cacheable": true,
-      "optional": false,
-      "orphan": false,
-      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-      "issuerPath": [
-        {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
-          "name": "./src/scripts/index.js",
-          "id": 253
-        },
-        {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "name": "./src/styles/responsive.css",
-          "id": 362
-        },
-        {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "id": 948
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "id": 308,
-      "issuerId": 948,
-      "chunks": [
-        17
-      ],
-      "assets": [],
-      "reasons": [
-        {
-          "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "resolvedModuleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
-          "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "type": "new URL()",
-          "active": true,
-          "explanation": "",
-          "userRequest": "/dist/images/hero-image_4-large.jpg",
-          "loc": "5:36-99",
-          "moduleId": 948,
-          "resolvedModuleId": 948
-        }
-      ],
-      "usedExports": true,
-      "providedExports": [],
-      "optimizationBailout": [],
-      "depth": 3
-    },
-    {
-      "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
       "size": 11654,
@@ -8374,10 +7926,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
       "name": "./src/scripts/views/pages/home.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
-      "index": 21,
-      "preOrderIndex": 21,
-      "index2": 22,
-      "postOrderIndex": 22,
+      "index": 19,
+      "preOrderIndex": 19,
+      "index2": 20,
+      "postOrderIndex": 20,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -8481,10 +8033,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
       "name": "./src/scripts/views/pages/detail.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-      "index": 26,
-      "preOrderIndex": 26,
-      "index2": 28,
-      "postOrderIndex": 28,
+      "index": 24,
+      "preOrderIndex": 24,
+      "index2": 26,
+      "postOrderIndex": 26,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -8555,7 +8107,7 @@
       "optimizationBailout": [
         "Statement (VariableDeclaration) with side effects in source code at 11:0-62:2",
         "ModuleConcatenation bailout: Cannot concat with ./src/scripts/component/reviews-page.js: Module is not an ECMAScript module",
-        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/favorite-restaurant-idb.js: Module ./src/scripts/data/favorite-restaurant-idb.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~5d3f7ed2)",
+        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/favorite-restaurant-idb.js: Module ./src/scripts/data/favorite-restaurant-idb.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~49ea73a0)",
         "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/therestodb-source.js: Module ./src/scripts/data/therestodb-source.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) )",
         "ModuleConcatenation bailout: Cannot concat with ./src/scripts/routes/url-parser.js: Module ./src/scripts/routes/url-parser.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~e4317507)",
         "ModuleConcatenation bailout: Cannot concat with ./src/scripts/utils/like-button-presenter.js: Module ./src/scripts/utils/like-button-presenter.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~e4317507)",
@@ -8578,10 +8130,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\like.js",
       "name": "./src/scripts/views/pages/like.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\like.js",
-      "index": 32,
-      "preOrderIndex": 32,
-      "index2": 29,
-      "postOrderIndex": 29,
+      "index": 30,
+      "preOrderIndex": 30,
+      "index2": 27,
+      "postOrderIndex": 27,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -8651,7 +8203,7 @@
       ],
       "optimizationBailout": [
         "Statement (VariableDeclaration) with side effects in source code at 7:0-46:2",
-        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/favorite-restaurant-idb.js: Module ./src/scripts/data/favorite-restaurant-idb.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~5d3f7ed2)",
+        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/data/favorite-restaurant-idb.js: Module ./src/scripts/data/favorite-restaurant-idb.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~49ea73a0)",
         "ModuleConcatenation bailout: Cannot concat with ./src/scripts/views/templates/template-creator.js: Module ./src/scripts/views/templates/template-creator.js is referenced from different chunks by these modules: ./src/scripts/utils/like-button-presenter.js"
       ],
       "depth": 3
@@ -8671,10 +8223,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js|2b793fe2f6a47573df2a0bea71413338",
       "name": "./src/scripts/data/therestodb-source.js + 1 modules",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
-      "index": 22,
-      "preOrderIndex": 22,
-      "index2": 20,
-      "postOrderIndex": 20,
+      "index": 20,
+      "preOrderIndex": 20,
+      "index2": 18,
+      "postOrderIndex": 18,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -8683,7 +8235,7 @@
       "warnings": 0,
       "id": 212,
       "chunks": [
-        17
+        135
       ],
       "assets": [],
       "reasons": [
@@ -8770,15 +8322,15 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
           "name": "./src/scripts/data/therestodb-source.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
-          "index": 22,
-          "preOrderIndex": 22,
-          "index2": 20,
-          "postOrderIndex": 20,
+          "index": 20,
+          "preOrderIndex": 20,
+          "index2": 18,
+          "postOrderIndex": 18,
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-          "issuerName": "./src/scripts/views/pages/detail.js",
+          "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+          "issuerName": "./src/scripts/views/pages/home.js",
           "issuerPath": [
             {
               "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -8796,16 +8348,16 @@
               "id": 705
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js",
-              "id": 178
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js",
+              "id": 750
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": null,
-          "issuerId": 178,
+          "issuerId": 750,
           "chunks": [],
           "assets": [],
           "reasons": [],
@@ -8835,10 +8387,10 @@
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\api-endpoint.js",
           "name": "./src/scripts/globals/api-endpoint.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\api-endpoint.js",
-          "index": 23,
-          "preOrderIndex": 23,
-          "index2": 19,
-          "postOrderIndex": 19,
+          "index": 21,
+          "preOrderIndex": 21,
+          "index2": 17,
+          "postOrderIndex": 17,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -8861,9 +8413,9 @@
               "id": 705
             },
             {
-              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js",
-              "id": 178
+              "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js",
+              "id": 750
             },
             {
               "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
@@ -8950,15 +8502,15 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\templates\\template-creator.js",
       "name": "./src/scripts/views/templates/template-creator.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\templates\\template-creator.js",
-      "index": 25,
-      "preOrderIndex": 25,
-      "index2": 21,
-      "postOrderIndex": 21,
+      "index": 23,
+      "preOrderIndex": 23,
+      "index2": 19,
+      "postOrderIndex": 19,
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-      "issuerName": "./src/scripts/views/pages/detail.js",
+      "issuer": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+      "issuerName": "./src/scripts/views/pages/home.js",
       "issuerPath": [
         {
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
@@ -8976,16 +8528,16 @@
           "id": 705
         },
         {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-          "name": "./src/scripts/views/pages/detail.js",
-          "id": 178
+          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+          "name": "./src/scripts/views/pages/home.js",
+          "id": 750
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 510,
-      "issuerId": 178,
+      "issuerId": 750,
       "chunks": [
         268
       ],
@@ -9148,7 +8700,7 @@
       ],
       "optimizationBailout": [
         "Dependency (harmony side effect evaluation) with side effects at 1:0-42",
-        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js: Module ./src/scripts/globals/config.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~5d3f7ed2)"
+        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js: Module ./src/scripts/globals/config.js is not in the same chunk(s) (expected in chunk(s) app~ca0940c6, module is in chunk(s) app~49ea73a0)"
       ],
       "depth": 4
     },
@@ -9167,10 +8719,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\component\\reviews-page.js",
       "name": "./src/scripts/component/reviews-page.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\component\\reviews-page.js",
-      "index": 27,
-      "preOrderIndex": 27,
-      "index2": 23,
-      "postOrderIndex": 23,
+      "index": 25,
+      "preOrderIndex": 25,
+      "index2": 21,
+      "postOrderIndex": 21,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -9204,7 +8756,7 @@
       "id": 803,
       "issuerId": 178,
       "chunks": [
-        17
+        135
       ],
       "assets": [],
       "reasons": [
@@ -9246,10 +8798,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\like-button-presenter.js",
       "name": "./src/scripts/utils/like-button-presenter.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\utils\\like-button-presenter.js",
-      "index": 28,
-      "preOrderIndex": 28,
-      "index2": 24,
-      "postOrderIndex": 24,
+      "index": 26,
+      "preOrderIndex": 26,
+      "index2": 22,
+      "postOrderIndex": 22,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -9343,10 +8895,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\favorite-restaurant-idb.js",
       "name": "./src/scripts/data/favorite-restaurant-idb.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\favorite-restaurant-idb.js",
-      "index": 29,
-      "preOrderIndex": 29,
-      "index2": 27,
-      "postOrderIndex": 27,
+      "index": 27,
+      "preOrderIndex": 27,
+      "index2": 25,
+      "postOrderIndex": 25,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -9380,7 +8932,7 @@
       "id": 997,
       "issuerId": 178,
       "chunks": [
-        17
+        135
       ],
       "assets": [],
       "reasons": [
@@ -9450,7 +9002,7 @@
       "optimizationBailout": [
         "Statement (VariableDeclaration) with side effects in source code at 9:0-11:47",
         "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js: Module ./src/scripts/globals/config.js is referenced from different chunks by these modules: ./src/scripts/views/templates/template-creator.js",
-        "ModuleConcatenation bailout: Cannot concat with ./node_modules/idb/build/index.js: Module ./node_modules/idb/build/index.js is not in the same chunk(s) (expected in chunk(s) app~5d3f7ed2, module is in chunk(s) )"
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/idb/build/index.js: Module ./node_modules/idb/build/index.js is not in the same chunk(s) (expected in chunk(s) app~49ea73a0, module is in chunk(s) )"
       ],
       "depth": 4
     },
@@ -9469,10 +9021,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\api-endpoint.js",
       "name": "./src/scripts/globals/api-endpoint.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\api-endpoint.js",
-      "index": 23,
-      "preOrderIndex": 23,
-      "index2": 19,
-      "postOrderIndex": 19,
+      "index": 21,
+      "preOrderIndex": 21,
+      "index2": 17,
+      "postOrderIndex": 17,
       "cacheable": true,
       "optional": false,
       "orphan": true,
@@ -9495,9 +9047,9 @@
           "id": 705
         },
         {
-          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\detail.js",
-          "name": "./src/scripts/views/pages/detail.js",
-          "id": 178
+          "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\views\\pages\\home.js",
+          "name": "./src/scripts/views/pages/home.js",
+          "id": 750
         },
         {
           "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\data\\therestodb-source.js",
@@ -9582,10 +9134,10 @@
       "identifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\config.js",
       "name": "./src/scripts/globals/config.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\globals\\config.js",
-      "index": 24,
-      "preOrderIndex": 24,
-      "index2": 18,
-      "postOrderIndex": 18,
+      "index": 22,
+      "preOrderIndex": 22,
+      "index2": 16,
+      "postOrderIndex": 16,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -9624,7 +9176,7 @@
       "id": 961,
       "issuerId": 997,
       "chunks": [
-        17
+        135
       ],
       "assets": [],
       "reasons": [
@@ -9837,10 +9389,10 @@
       "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\index.js|31edc6aea807368289b03faa3d019b95",
       "name": "./node_modules/idb/build/index.js + 1 modules",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\index.js",
-      "index": 30,
-      "preOrderIndex": 30,
-      "index2": 26,
-      "postOrderIndex": 26,
+      "index": 28,
+      "preOrderIndex": 28,
+      "index2": 24,
+      "postOrderIndex": 24,
       "cacheable": true,
       "optional": false,
       "orphan": false,
@@ -9909,10 +9461,10 @@
           "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\index.js",
           "name": "./node_modules/idb/build/index.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\index.js",
-          "index": 30,
-          "preOrderIndex": 30,
-          "index2": 26,
-          "postOrderIndex": 26,
+          "index": 28,
+          "preOrderIndex": 28,
+          "index2": 24,
+          "postOrderIndex": 24,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -9982,10 +9534,10 @@
           "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\wrap-idb-value.js",
           "name": "./node_modules/idb/build/wrap-idb-value.js",
           "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\wrap-idb-value.js",
-          "index": 31,
-          "preOrderIndex": 31,
-          "index2": 25,
-          "postOrderIndex": 25,
+          "index": 29,
+          "preOrderIndex": 29,
+          "index2": 23,
+          "postOrderIndex": 23,
           "cacheable": true,
           "optional": false,
           "orphan": false,
@@ -10191,10 +9743,10 @@
       "identifier": "javascript/esm|D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\wrap-idb-value.js",
       "name": "./node_modules/idb/build/wrap-idb-value.js",
       "nameForCondition": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\idb\\build\\wrap-idb-value.js",
-      "index": 31,
-      "preOrderIndex": 31,
-      "index2": 25,
-      "postOrderIndex": 25,
+      "index": 29,
+      "preOrderIndex": 29,
+      "index2": 23,
+      "postOrderIndex": 23,
       "cacheable": true,
       "optional": false,
       "orphan": true,
@@ -10492,41 +10044,6 @@
       "type": "module",
       "moduleType": "runtime",
       "layer": null,
-      "size": 221,
-      "sizes": {
-        "runtime": 221
-      },
-      "built": false,
-      "codeGenerated": true,
-      "buildTimeExecuted": false,
-      "cached": false,
-      "identifier": "webpack/runtime/global",
-      "name": "webpack/runtime/global",
-      "nameForCondition": null,
-      "index": null,
-      "preOrderIndex": null,
-      "index2": null,
-      "postOrderIndex": null,
-      "optional": false,
-      "orphan": false,
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "id": "",
-      "chunks": [
-        954
-      ],
-      "assets": [],
-      "reasons": [],
-      "usedExports": null,
-      "providedExports": [],
-      "optimizationBailout": [],
-      "depth": null
-    },
-    {
-      "type": "module",
-      "moduleType": "runtime",
-      "layer": null,
       "size": 88,
       "sizes": {
         "runtime": 88
@@ -10627,41 +10144,6 @@
       "providedExports": [],
       "optimizationBailout": [],
       "depth": null
-    },
-    {
-      "type": "module",
-      "moduleType": "runtime",
-      "layer": null,
-      "size": 923,
-      "sizes": {
-        "runtime": 923
-      },
-      "built": false,
-      "codeGenerated": true,
-      "buildTimeExecuted": false,
-      "cached": false,
-      "identifier": "webpack/runtime/publicPath",
-      "name": "webpack/runtime/publicPath",
-      "nameForCondition": null,
-      "index": null,
-      "preOrderIndex": null,
-      "index2": null,
-      "postOrderIndex": null,
-      "optional": false,
-      "orphan": false,
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "id": "",
-      "chunks": [
-        954
-      ],
-      "assets": [],
-      "reasons": [],
-      "usedExports": null,
-      "providedExports": [],
-      "optimizationBailout": [],
-      "depth": null
     }
   ],
   "entrypoints": {
@@ -10670,75 +10152,55 @@
       "chunks": [
         192,
         2,
-        17,
+        135,
         337,
         268,
         954
       ],
       "assets": [
         {
-          "name": "192.bundle.js",
-          "size": 14005
+          "name": "192.bundle.js"
         },
         {
-          "name": "2.bundle.js",
-          "size": 14645
+          "name": "2.bundle.js"
         },
         {
-          "name": "app~5d3f7ed2.bundle.js",
-          "size": 21410
+          "name": "app~49ea73a0.bundle.js"
         },
         {
-          "name": "app~e4317507.bundle.js",
-          "size": 17760
+          "name": "app~e4317507.bundle.js"
         },
         {
-          "name": "app~ca0940c6.bundle.js",
-          "size": 35008
+          "name": "app~ca0940c6.bundle.js"
         },
         {
-          "name": "app~d1658f4b.bundle.js",
-          "size": 21754
+          "name": "app~d1658f4b.bundle.js"
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 124582,
+      "assetsSize": null,
       "auxiliaryAssets": [
         {
-          "name": "192.bundle.js.map",
-          "size": 66794
+          "name": "192.bundle.js.map"
         },
         {
-          "name": "2.bundle.js.map",
-          "size": 61157
+          "name": "2.bundle.js.map"
         },
         {
-          "name": "8e438958ab0a4ec5a228.jpg",
-          "size": 26088
+          "name": "app~49ea73a0.bundle.js.map"
         },
         {
-          "name": "aa6581159e60eae64e59.jpg",
-          "size": 12458
+          "name": "app~ca0940c6.bundle.js.map"
         },
         {
-          "name": "app~5d3f7ed2.bundle.js.map",
-          "size": 25887
+          "name": "app~d1658f4b.bundle.js.map"
         },
         {
-          "name": "app~ca0940c6.bundle.js.map",
-          "size": 47119
-        },
-        {
-          "name": "app~d1658f4b.bundle.js.map",
-          "size": 35060
-        },
-        {
-          "name": "app~e4317507.bundle.js.map",
-          "size": 25795
+          "name": "app~e4317507.bundle.js.map"
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 300358,
+      "auxiliaryAssetsSize": null,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -10750,100 +10212,182 @@
       "chunks": [
         192,
         2,
-        17,
+        135,
         337,
         268,
         954
       ],
       "assets": [
         {
-          "name": "192.bundle.js",
-          "size": 14005
+          "name": "192.bundle.js"
         },
         {
-          "name": "2.bundle.js",
-          "size": 14645
+          "name": "2.bundle.js"
         },
         {
-          "name": "app~5d3f7ed2.bundle.js",
-          "size": 21410
+          "name": "app~49ea73a0.bundle.js"
         },
         {
-          "name": "app~e4317507.bundle.js",
-          "size": 17760
+          "name": "app~e4317507.bundle.js"
         },
         {
-          "name": "app~ca0940c6.bundle.js",
-          "size": 35008
+          "name": "app~ca0940c6.bundle.js"
         },
         {
-          "name": "app~d1658f4b.bundle.js",
-          "size": 21754
+          "name": "app~d1658f4b.bundle.js"
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 124582,
+      "assetsSize": null,
       "auxiliaryAssets": [
         {
-          "name": "192.bundle.js.map",
-          "size": 66794
+          "name": "192.bundle.js.map"
         },
         {
-          "name": "2.bundle.js.map",
-          "size": 61157
+          "name": "2.bundle.js.map"
         },
         {
-          "name": "8e438958ab0a4ec5a228.jpg",
-          "size": 26088
+          "name": "app~49ea73a0.bundle.js.map"
         },
         {
-          "name": "aa6581159e60eae64e59.jpg",
-          "size": 12458
+          "name": "app~ca0940c6.bundle.js.map"
         },
         {
-          "name": "app~5d3f7ed2.bundle.js.map",
-          "size": 25887
+          "name": "app~d1658f4b.bundle.js.map"
         },
         {
-          "name": "app~ca0940c6.bundle.js.map",
-          "size": 47119
-        },
-        {
-          "name": "app~d1658f4b.bundle.js.map",
-          "size": 35060
-        },
-        {
-          "name": "app~e4317507.bundle.js.map",
-          "size": 25795
+          "name": "app~e4317507.bundle.js.map"
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 300358,
+      "auxiliaryAssetsSize": null,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
     }
   },
-  "errors": [],
-  "errorsCount": 0,
-  "warnings": [
+  "errors": [
     {
-      "message": "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  icons/icon-512x512.png (247 KiB)",
-      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  icons/icon-512x512.png (247 KiB)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:134:7\n    at Hook.eval [as callAsync] (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\Compiler.js:882:27\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:2818:7\n    at done (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\Compiler.js:736:33\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\graceful-fs\\graceful-fs.js:143:16\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (node:fs:200:23)"
+      "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+      "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+      "loc": "5:36-99",
+      "message": "Module not found: Error: Can't resolve '/dist/images/hero-image_4-small.jpg' in 'D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles'",
+      "moduleId": 756,
+      "moduleTrace": [
+        {
+          "originIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "originName": "./src/styles/main.css",
+          "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+          "dependencies": [
+            {
+              "loc": "8:6-101"
+            },
+            {
+              "loc": "22:17-24"
+            },
+            {
+              "loc": "26:0-71"
+            },
+            {
+              "loc": "26:0-71"
+            },
+            {
+              "loc": "27:22-29"
+            },
+            {
+              "loc": "27:33-47"
+            },
+            {
+              "loc": "27:50-64"
+            }
+          ],
+          "originId": 46,
+          "moduleId": 756
+        },
+        {
+          "originIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
+          "originName": "./src/scripts/index.js",
+          "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\main.css",
+          "moduleName": "./src/styles/main.css",
+          "dependencies": [
+            {
+              "loc": "2:0-28"
+            }
+          ],
+          "originId": 253,
+          "moduleId": 46
+        }
+      ],
+      "details": "resolve '/dist/images/hero-image_4-small.jpg' in 'D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles'\n  using description file: D:\\MSIB 5\\A. Submission\\resto pwa testing\\package.json (relative path: ./src/styles)\n    No description file found in /dist/images or above\n    no extension\n      /dist/images/hero-image_4-small.jpg doesn't exist\n    as directory\n      /dist/images/hero-image_4-small.jpg doesn't exist\n    root path D:\\MSIB 5\\A. Submission\\resto pwa testing\n      using description file: D:\\MSIB 5\\A. Submission\\resto pwa testing\\package.json (relative path: ./dist/images/hero-image_4-small.jpg)\n        no extension\n          D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-small.jpg doesn't exist\n        as directory\n          D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-small.jpg doesn't exist",
+      "stack": "ModuleNotFoundError: Module not found: Error: Can't resolve '/dist/images/hero-image_4-small.jpg' in 'D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles'\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\Compilation.js:2022:28\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:817:13\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:10:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:275:22\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:448:22\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:118:11\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:689:25\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:893:8\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:1013:5\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:6883:13\n    at Array.<anonymous> (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:988:14)\n    at arrayEachFunc (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:2517:19)\n    at Object.parallel (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:6858:9)\n    at NormalModuleFactory._resolveResourceErrorHints (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:911:12)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:853:18\n    at finishWithoutResolve (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:372:11)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:461:15\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:27:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\DescriptionFilePlugin.js:89:43\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:16:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\forEachBail.js:39:13\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:27:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\DescriptionFilePlugin.js:89:43\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:16:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\DirectoryExistsPlugin.js:41:15\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)"
     },
     {
-      "message": "webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/",
-      "stack": "NoAsyncChunksWarning: webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:156:21\n    at Hook.eval [as callAsync] (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\Compiler.js:882:27\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:2818:7\n    at done (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\Compiler.js:736:33\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\graceful-fs\\graceful-fs.js:143:16\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (node:fs:200:23)"
+      "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
+      "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+      "loc": "5:36-99",
+      "message": "Module not found: Error: Can't resolve '/dist/images/hero-image_4-large.jpg' in 'D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles'",
+      "moduleId": 948,
+      "moduleTrace": [
+        {
+          "originIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
+          "originName": "./src/styles/responsive.css",
+          "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+          "dependencies": [
+            {
+              "loc": "8:6-107"
+            },
+            {
+              "loc": "22:17-24"
+            },
+            {
+              "loc": "26:0-77"
+            },
+            {
+              "loc": "26:0-77"
+            },
+            {
+              "loc": "27:22-29"
+            },
+            {
+              "loc": "27:33-47"
+            },
+            {
+              "loc": "27:50-64"
+            }
+          ],
+          "originId": 362,
+          "moduleId": 948
+        },
+        {
+          "originIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use[0]!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\scripts\\index.js",
+          "originName": "./src/scripts/index.js",
+          "moduleIdentifier": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\style-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\css-loader\\dist\\cjs.js!D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles\\responsive.css",
+          "moduleName": "./src/styles/responsive.css",
+          "dependencies": [
+            {
+              "loc": "3:0-34"
+            }
+          ],
+          "originId": 253,
+          "moduleId": 362
+        }
+      ],
+      "details": "resolve '/dist/images/hero-image_4-large.jpg' in 'D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles'\n  using description file: D:\\MSIB 5\\A. Submission\\resto pwa testing\\package.json (relative path: ./src/styles)\n    No description file found in /dist/images or above\n    no extension\n      /dist/images/hero-image_4-large.jpg doesn't exist\n    as directory\n      /dist/images/hero-image_4-large.jpg doesn't exist\n    root path D:\\MSIB 5\\A. Submission\\resto pwa testing\n      using description file: D:\\MSIB 5\\A. Submission\\resto pwa testing\\package.json (relative path: ./dist/images/hero-image_4-large.jpg)\n        no extension\n          D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-large.jpg doesn't exist\n        as directory\n          D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist\\images\\hero-image_4-large.jpg doesn't exist",
+      "stack": "ModuleNotFoundError: Module not found: Error: Can't resolve '/dist/images/hero-image_4-large.jpg' in 'D:\\MSIB 5\\A. Submission\\resto pwa testing\\src\\styles'\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\Compilation.js:2022:28\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:817:13\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:10:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:275:22\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:448:22\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:118:11\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:689:25\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:893:8\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:1013:5\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:6883:13\n    at Array.<anonymous> (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:988:14)\n    at arrayEachFunc (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:2517:19)\n    at Object.parallel (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\neo-async\\async.js:6858:9)\n    at NormalModuleFactory._resolveResourceErrorHints (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:911:12)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\webpack\\lib\\NormalModuleFactory.js:853:18\n    at finishWithoutResolve (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:372:11)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:461:15\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:27:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\DescriptionFilePlugin.js:89:43\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:16:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\forEachBail.js:39:13\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:27:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\DescriptionFilePlugin.js:89:43\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:16:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\Resolver.js:519:5\n    at eval (eval at create (D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at D:\\MSIB 5\\A. Submission\\resto pwa testing\\node_modules\\enhanced-resolve\\lib\\DirectoryExistsPlugin.js:41:15\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)"
     }
   ],
-  "warningsCount": 2,
+  "errorsCount": 2,
+  "warnings": [],
+  "warningsCount": 0,
   "children": [
     {
       "name": "HtmlWebpackCompiler",
       "hash": "faed051f3ef3b51b8eb6",
       "version": "5.89.0",
-      "time": 121,
-      "builtAt": 1737545203879,
+      "time": 869,
+      "builtAt": 1737547370869,
       "publicPath": "",
       "outputPath": "D:\\MSIB 5\\A. Submission\\resto pwa testing\\dist",
       "assetsByChunkName": {},
